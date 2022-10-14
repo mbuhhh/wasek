@@ -51,30 +51,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 global.sig = 'https://instagram.com/_ctzhid' // ig
 global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
+global.sgc = 'https://chat.whatsapp.com/CXlmoOdqWkO59AkeWpGnmB' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.pdana = '081327748566' //dana
+global.povo = '081327748566' //ovo
+global.pgopay = '081327748566' //gopay
+global.plinkaja = '081327748566' //link aja
+global.ppulsa = '081327748566' //telkomsel
+global.ppulsa2 = '081327748566' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6285158448064'
+global.nomorown = '6281327748566'
+global.namebot = 'Smile-Bot'
+global.nameown = 'Donyy'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
-global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
+global.namagithub = 'mbuhhh' // nama github lu
+global.linkgithub = 'https://github.com/mbuhhh' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,8 +85,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6281327748566', 'Donyy', true],
+  ['6283801506294', 'Gabriel', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
